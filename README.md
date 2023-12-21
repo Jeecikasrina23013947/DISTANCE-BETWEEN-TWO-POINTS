@@ -29,4 +29,4 @@ print("{:.2f}".format(dis))
 ![image](https://github.com/Jeecikasrina23013947/DISTANCE-BETWEEN-TWO-POINTS/assets/148515300/0abfcdfb-2ca9-4892-abc5-58b4afa42e0e)
 
 ### RESULT:
-Thus the distance between two points is found
+Thus the distance between two points is found.
